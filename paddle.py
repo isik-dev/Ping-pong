@@ -20,7 +20,4 @@ class Paddle(Turtle):
         self.goto(self.xcor(), new_y)
 
 
-# david features
-
-# few things added by J
 
